@@ -4,7 +4,7 @@
   <artifactId>SpringMySQL</artifactId>
   <version>1.0</version>
   <build>
-  	<finalName>SpringMySQL</finalName>
+  	<finalName>SpringHibernateMySQL</finalName>
   	<plugins>
   		<plugin>
   			<groupId>org.apache.maven.plugins</groupId>
